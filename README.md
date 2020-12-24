@@ -5,7 +5,7 @@
 This simple script prints the canvas position of your cursor on the screen.
 I recommend you to click once on the icon of the script, then move your cursor to wherever you like without clicking anywhere, the pressing the return key to trigger the script and print the mouse position.
 
-<video src="https://cdn.discordapp.com/attachments/552931175161790465/791571855717826570/getpos.mp4" muted loop autoplay width="80%"></video>
+![](https://media2.giphy.com/media/7H444pwsKBwYFhOKNr/giphy.gif)
 
 ## Prerequisites
 
